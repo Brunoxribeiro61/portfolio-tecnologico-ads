@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html >
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <link rel="icon" type="imagem/jpg" href="./image/bandeiramogi.jfif">
+    </head>
+<body bgcolor="gray" text="white">
+    <header>
+        <nav>
+            <center>
+                <table cellspacing="20" cellpadding="15">
+                    <thead>
+                        <tr>
+                            <td><a href="index.html">Home</a></td>
+                            <td><a href="pontos.html">Pontos Turisticos</a></td>
+                            <td><a href="historia.html">História</a></td>
+                            <td><a href="geografia.html">Geografia</a></td>
+                            <td><a href="cultura.html">Cultura</a></td>
+                            <td><a href="lazer.html">Lazer</a></td>
+                            <td><a href="contato.html">Contato</a></td>
+                        </tr>
+                    </thead>
+                </table>
+            </center>
+        </nav>
+    </header>
+        <form action="enviar_dados" method="post">
+            <div style="display: flex; gap: 10px;">
+                <div>
+                    <label for="nome">Digite seu nome:</label><br>
+                    <input type="text" id="nome" name="nome" placeholder="Digite seu nome">
+                </div>
+                <div>
+                    <label for="email">Digite seu email:</label><br>
+                    <input type="email" id="email" name="email" placeholder="Digite seu email">
+                </div>
+            </div>
+            <br>
+            <label for="mensagem">Digite sua mensagem:</label><br>
+            <textarea id="mensagem" name="mensagem" placeholder="Digite sua mensagem"></textarea><br>
+            <br><br>
+            <div style="display: flex; gap: 20px;">
+                <div>
+                    <label for="escolha">O que achou do site</label><br>
+                    <input type="checkbox" name="escolha" value="bom">Bom<br>
+                    <input type="checkbox" name="escolha" value="ruim">Ruim<br>
+                    <input type="checkbox" name="escolha" value="regular">Regular<br>
+                </div>
+                <div>
+                    <label for="indique">Indique o site para um amigo</label><br>
+                    <input type="radio" name="indique" value="sim" checked>Sim<br>
+                    <input type="radio" name="indique" value="nao">Não<br>
+                </div>
+            </div>
+            <br><br>
+            <input type="submit" value="Enviar" onclick="alert('Enviado')">
+            <input type="reset" value="Limpar">
+            <br><br>
+            <label for="mensagem">Mensagem enviada com sucesso!</label><br>
+            <br><br>
+            <label for="nota">Qual a nota do site</label>
+            <select>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        <br><br>
+        <textarea name="sugestao" rows="10" cols="10" placeholder="Digite sua Opinião" maxlength="5"></textarea>
+        <br><br>
+    </form>

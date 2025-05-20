@@ -1,0 +1,20 @@
+faça um site de um pais/cidade/estado contendo os seguintes menu
+Home - Turismo - Culinaria - contato
+
+Na home deve conter obrigatorio 
+-uma imagem
+-dados do local
+Ter um lista na home
+
+Na parte turistica
+ter 3 imagens pelo menos, informação do local
+deve ter uma tabela 
+
+Na pagina Culinaria deve conter
+4 pratos tipicos com a lista de ingredientes
+1 video do preparo
+
+Na pagina contato 
+formulario
+
+
