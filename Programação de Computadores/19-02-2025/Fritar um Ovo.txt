@@ -1,0 +1,26 @@
+Inicio
+1-Pegar a panela
+2-Colocar no fogão
+3-abrir a geladeira
+4-verificar se tem ovo
+5-pegar o ovo
+6-levar até a pia
+7-colocar na pia o ovo com cuidado
+8-ligar o fogo do fogão
+9-colocar azeite na panela
+10-esperar esquentar por 1 minuto
+11-pegar o ovo na pia
+12-Bater na beirada da panela o ovo até trincar levemente
+13-após trincar o ovo levar ao meio da panela
+14-com as duas mãos abrir o ovo pelo trinco próximo a panela
+15-aguardar por 2 minutos
+16-pegar uma espátula na gaveta do armário de cozinha
+17-usar a espátula para virar o ovo de cabeça para baixo
+18-aguardar por mais 2 minutos
+19-desligar o fogo
+20-pegar o prato no armário da cozinha e colocar na pia
+21-pegar a panela e a espátula e ir até a pia
+22-com a espátula pegar o ovo e colocar no prato
+23-colocar a panela encima do fogão novamente
+24-colocar a espátula na pia
+Fim
