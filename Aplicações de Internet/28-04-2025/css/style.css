@@ -1,0 +1,51 @@
+#principal {
+    text-align: center;
+}
+
+#menu {
+    text-decoration: none;
+    padding: 10px;
+    background-color: rgb(50, 65, 55);
+    max-width: 0 auto;
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: #1c48da #e20909 #1c48da #e20909;
+}
+
+#primeira {
+    background-color: rgb(57, 82, 71);
+    display: block;
+    margin: 0 auto; 
+    max-width: 677px;
+    border-style: solid dashed solid dashed;
+    border-color: #e20909 #1c48da #e20909 #1c48da;
+
+}
+#historiaum {
+    background-color: rgb(57, 82, 71);
+    color: white;
+    padding: 5px;
+    border-radius: 0px 0px 10px 10px ;
+    max-width: 667px; 
+    margin: 0 auto; 
+    margin-top: 0;
+    border-style: solid dashed dashed dashed;
+    border-color: #e20909 #1c48da #1c48da #1c48da;
+}
+#geracaoum {
+    background-color: rgb(57, 82, 71);
+    color: white;
+    padding: 5px;
+    border-radius: 10px 10px 0 0;
+    text-align: center;
+    max-width: 667px;
+    margin: 0 auto;
+    border-style: dashed dashed solid dashed;
+    border-color: #1c48da #1c48da #e20909 #1c48da;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: white;
+    font-size: 1.3em;
+}
