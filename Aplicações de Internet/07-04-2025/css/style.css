@@ -1,0 +1,41 @@
+.vinho{
+    background-color: #6d1c1c;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+.laranja{
+    background-color: #1c6d1c;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+.azul{
+    background-color: #1c1c6d;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+#azul{
+    background-color: #1c6d6d;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+body{
+    background-image: url(../image/BACK.jpg);
+    background-repeat: no-repeat;  
+    background-position: top center;
+    background-color : #f0f0f0;
+    SIZE: 70%;
+    background-size: cover;
+}
